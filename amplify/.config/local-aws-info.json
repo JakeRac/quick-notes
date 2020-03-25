@@ -1,7 +1,7 @@
 {
-    "dev": {
+    "devq": {
         "configLevel": "project",
         "useProfile": true,
-        "profileName": "isengard-amplify-cli"
+        "profileName": "rac-dev"
     }
 }
