@@ -40,7 +40,7 @@
 			"output": {
 				"securityType": "AMAZON_COGNITO_USER_POOLS",
 				"GraphQLAPIIdOutput": "fsgw5f46inehpeyukx25tyeioq",
-				"GraphQLAPIEndpointOutput": "https://mnfvrymm4jfypo3v5mgekvuzse.appsync-api.us-east-1.amazonaws.com/graphql"
+				"GraphQLAPIEndpointOutput": "https://l3poy2lszvbnxcgyh3gvdv24iy.appsync-api.us-east-1.amazonaws.com/graphql"
 			},
 			"providerMetadata": {
 				"s3TemplateURL": "https://s3.amazonaws.com/quick-notes-dev-20190826145900-deployment/amplify-cfn-templates/api/cloudformation-template.json",
